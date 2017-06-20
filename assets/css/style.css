@@ -15,6 +15,12 @@
 	border:none;
 }
 
+.borde:hover{
+	border-bottom: 3px solid #E10000;
+	background-color: white;
+
+}
+
 .nav.nav-pills a{
 	color: black;
 }

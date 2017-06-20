@@ -1,5 +1,36 @@
 /* Holiii otra vez */
 
-body{
+*body{
 	font-family: 'Merriweather Sans', sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+.nav.nav-pills{
+	border-bottom: 2px solid #FF8D8D;
+}
+
+.nav.nav-pills button{
+	background-color: #E10000;
+	border:none;
+}
+
+.nav.nav-pills a{
+	color: black;
+}
+
+.navbar-header a{
+	color: black;
+}
+
+img{
+	width: 100%;
+}
+
+#first-seccion{
+	padding-top: 30px;
+}
+
+#bajar{
+	margin-top: 28px;
 }
